@@ -1,12 +1,20 @@
-# Jupyter
+# Jupyter system files
 .ipynb_checkpoints/
 
-# Python
+# Jupyter Notebook for Kaggle
+notebooks/EDA_kaggle.ipynb
+
+# Local database (если хочешь не пушить .db файл)
+data/airbnb.db
+
+# OS/System
+.DS_Store
+Thumbs.db
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
-*.pyd
-.env
 
-# Data
-data/
+# VSCode settings (если пользуешься)
+.vscode/
