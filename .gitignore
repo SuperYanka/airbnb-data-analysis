@@ -16,5 +16,5 @@ __pycache__/
 *.pyc
 *.pyo
 
-# VSCode settings (если пользуешься)
+# VSCode settings
 .vscode/
